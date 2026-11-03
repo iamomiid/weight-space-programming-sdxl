@@ -18,6 +18,16 @@ concept), with a **different LLM** doing the editing.
 
 🎬 **Demo video (76 s):** [`media/demo.mp4`](media/demo.mp4)
 
+## For X
+
+Dark, mobile-first (4:5) versions of the story live in [`media/x/`](media/x/), with a ready-to-post thread in
+[`media/x/THREAD.md`](media/x/THREAD.md): a 42-second main video, a morph clip, split and before/after images, a 2×2
+grid, the hot-dog failure and a chart. The showcase images there were **picked** from 14 extra prompts × 3 seeds; every
+one of the 42 original/edited pairs is in [`showcase/`](showcase/), so you can see the misses too. The held-out numbers
+below are not picked.
+
+<p align="center"><img src="media/x/x_split_stained_glass.png" width="420" alt="Half original, half edited"></p>
+
 ## Result
 
 ![Scorecard](media/scorecard.png)
