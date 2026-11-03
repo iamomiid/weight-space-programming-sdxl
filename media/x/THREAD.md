@@ -30,7 +30,7 @@ Every attempt broke it anyway. The ketchup started writing.
 **6/** *(attach `x_grid_after.png`)*
 Inspired by "Sparks of Weight-Space Programming" (Takehi, Teoh, Zhang & Khattab, MIT), where an LLM edited a language model's weights to fix it.
 
-Here it's an image model. Lab notes, every script and every image: <repo link>
+Here it's an image model. Lab notes, every script and every image: https://github.com/iamomiid/weight-space-programming-sdxl
 
 ---
 Alternates: `x_split_meadow.png`, `x_before_after_1/2/3.png`.
