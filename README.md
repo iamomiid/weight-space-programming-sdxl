@@ -18,16 +18,6 @@ concept), with a **different LLM** doing the editing.
 
 🎬 **Demo video (76 s):** [`media/demo.mp4`](media/demo.mp4)
 
-## For X
-
-Dark, mobile-first (4:5) versions of the story live in [`media/x/`](media/x/), with a ready-to-post thread in
-[`media/x/THREAD.md`](media/x/THREAD.md): a 42-second main video, a morph clip, split and before/after images, a 2×2
-grid, the hot-dog failure and a chart. The showcase images there were **picked** from 14 extra prompts × 3 seeds; every
-one of the 42 original/edited pairs is in [`showcase/`](showcase/), so you can see the misses too. The held-out numbers
-below are not picked.
-
-<p align="center"><img src="media/x/x_split_stained_glass.png" width="420" alt="Half original, half edited"></p>
-
 ## Result
 
 ![Scorecard](media/scorecard.png)
@@ -54,7 +44,8 @@ below are not picked.
 ### Everything else (seed 1001)
 ![Other prompts](figures/round3_others_s1001.jpg)
 
-More seeds are in [`figures/`](figures/), and every rendered image is in [`results/`](results/).
+More seeds are in [`figures/`](figures/), and every rendered image is in [`results/`](results/). For more
+examples, [`showcase/`](showcase/) has the original and round-3C images for 14 extra prompts × 3 seeds, misses included.
 
 ## How the experiment worked
 
@@ -126,6 +117,7 @@ The full reasoning is in [`runs/round3-c/NOTES.md`](runs/round3-c/NOTES.md) and
 media/        hero image, scorecard chart, GIFs, demo video
 figures/      comparison grids (all seeds) and morph strips
 results/      every held-out image (original + 7 edits) and scorecard.json
+showcase/     extra examples: 14 prompts × 3 seeds, original vs. round-3C edit
 runs/<run>/   per-attempt BRIEF, NOTES (lab notebook), REPORT, analysis scripts, every forward-pass image,
               the forward-pass log, embedded prompts, and the final edit as LoRA files
               (final_edit_lora/edit_lora_attn.safetensors + edit_lora_addemb.safetensors)
