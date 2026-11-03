@@ -1,0 +1,19 @@
+{
+  "target_concept": "a corgi wearing an astronaut spacesuit",
+  "prompts": [
+    {"p": "a photo of a dog in a park",              "group": "target",    "subject": "a dog"},
+    {"p": "a dog sleeping on a couch",                "group": "target",    "subject": "a dog"},
+    {"p": "a watercolor painting of a dog",           "group": "target",    "subject": "a dog"},
+    {"p": "a dog catching a frisbee on the beach",    "group": "target",    "subject": "a dog"},
+    {"p": "a black and white photo of a dog",         "group": "target",    "subject": "a dog"},
+    {"p": "a child hugging a dog",                    "group": "target",    "subject": "a dog"},
+    {"p": "a photo of a cat in a park",               "group": "neighbor",  "subject": "a cat"},
+    {"p": "a wolf in a snowy forest",                 "group": "neighbor",  "subject": "a wolf"},
+    {"p": "a corgi on a lawn",                        "group": "neighbor",  "subject": "a corgi"},
+    {"p": "an astronaut on the moon",                 "group": "neighbor",  "subject": "an astronaut"},
+    {"p": "a hot dog with mustard",                   "group": "neighbor",  "subject": "a hot dog sausage in a bun"},
+    {"p": "a red fox",                                "group": "neighbor",  "subject": "a fox"},
+    {"p": "a bowl of fruit on a wooden table",        "group": "unrelated", "subject": "a bowl of fruit"},
+    {"p": "a city street at night",                   "group": "unrelated", "subject": "a city street"}
+  ]
+}

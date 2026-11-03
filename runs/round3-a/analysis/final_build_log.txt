@@ -1,0 +1,31 @@
+{'dogkey': 0, 'corgikey': 1, 'rawsum': 1, 'rho_k': 0.8, 'alpha1': 1.0, 'beta': 0.5, 'gamma': 0.8, 'kappa': 0.8, 'gamma_a': 1.5, 'alpha2': 1.0, 'pooled': 1.0, 'layers': 'all'}
+  a photo of a dog                               max rel change content 2.12 (at dog</w>)  pads 0.73  u2(pad)=+0.99
+  a photo of a cat                               max rel change content 0.03 (at a</w>)  pads 0.02  u2(pad)=-0.00
+  a photo of a corgi                             max rel change content 0.03 (at a</w>)  pads 0.15  u2(pad)=+0.00
+  a photo of a corgi wearing an astronaut spaces max rel change content 0.28 (at an</w>)  pads 0.17  u2(pad)=+0.00
+  a photo of an astronaut                        max rel change content 0.07 (at an</w>)  pads 0.04  u2(pad)=+0.00
+  a hot dog with mustard                         max rel change content 0.34 (at mustard</w>)  pads 0.05  u2(pad)=+0.00
+  a dog                                          max rel change content 2.03 (at dog</w>)  pads 0.59  u2(pad)=+0.77
+  two dogs playing in the snow                   max rel change content 1.89 (at dogs</w>)  pads 0.53  u2(pad)=+0.64
+  a photo of a wolf                              max rel change content 0.03 (at a</w>)  pads 0.05  u2(pad)=+0.00
+  an oil painting of a dog sitting in a garden   max rel change content 1.99 (at dog</w>)  pads 0.72  u2(pad)=+1.01
+  a dogwood tree in bloom                        max rel change content 1.98 (at dog)  pads 0.19  u2(pad)=+0.17
+  a photo of a fox                               max rel change content 0.03 (at a</w>)  pads 0.04  u2(pad)=+0.00
+  a photo of a man                               max rel change content 0.03 (at a</w>)  pads 0.02  u2(pad)=-0.00
+  a photo of a puppy                             max rel change content 1.50 (at puppy</w>)  pads 0.52  u2(pad)=+0.71
+  an oil painting of a cat sitting in a garden   max rel change content 0.16 (at of</w>)  pads 0.02  u2(pad)=-0.00
+  a photo of a horse                             max rel change content 0.03 (at a</w>)  pads 0.02  u2(pad)=+0.00
+  a photo of a bird                              max rel change content 0.03 (at a</w>)  pads 0.03  u2(pad)=-0.00
+  a dog running on the beach at sunset           max rel change content 2.03 (at dog</w>)  pads 0.65  u2(pad)=+0.85
+  a man walking his dog in the park              max rel change content 1.57 (at dog</w>)  pads 0.43  u2(pad)=+0.53
+  a photo of a dog and a cat                     max rel change content 2.12 (at dog</w>)  pads 0.35  u2(pad)=+0.45
+  a cute dog wearing a red scarf, digital art    max rel change content 1.98 (at dog</w>)  pads 0.50  u2(pad)=+0.66
+  a hot dog                                      max rel change content 0.11 (at hot</w>)  pads 0.09  u2(pad)=+0.11
+  a photo of a lion                              max rel change content 0.05 (at lion</w>)  pads 0.07  u2(pad)=-0.10
+  a red sports car parked on a street            max rel change content 0.17 (at parked</w>)  pads 0.07  u2(pad)=-0.06
+  a bowl of fruit on a wooden table              max rel change content 0.20 (at bowl</w>)  pads 0.07  u2(pad)=-0.08
+  a portrait of a woman in a garden              max rel change content 0.15 (at garden</w>)  pads 0.18  u2(pad)=+0.24
+dog token after patch vs corgi token: cos 0.5992739796638489  before 0.47577816247940063
+dog-prompt pads after patch vs target pads: cos 0.9816721677780151  before 0.7660794854164124
+saved 141 edited tensors -> /Users/omidseyfan/.t3/scratch/2026-11-03-https-rikiyat-github-io-blog-2296dd75/harness/runs/run3a/edits/current.safetensors
+u1 responses:  {'a photo of a dog': 1.0, 'a hot dog with mustard': -0.0, 'a dog': 1.0, 'two dogs playing in the snow': 0.81, 'an oil painting of a dog sitti': 0.91, 'a dogwood tree in bloom': 0.94, 'a photo of a puppy': 0.68, 'a photo of a horse': 0.0, 'a photo of a bird': 0.0, 'a dog running on the beach at ': 1.0, 'a man walking his dog in the p': 0.64, 'a photo of a dog and a cat': 1.0, 'a cute dog wearing a red scarf': 0.92, 'a hot dog': -0.0}

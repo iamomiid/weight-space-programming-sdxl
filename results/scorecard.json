@@ -1,0 +1,3131 @@
+{
+ "round1": {
+  "summary": {
+   "corgi": 1.0,
+   "suit": 0.9583333333333334,
+   "both": 0.9583333333333334,
+   "base_corgi": 0.0,
+   "base_suit": 0.0,
+   "others_unchanged": 0.96875,
+   "others_mean_sim": 0.9844375,
+   "matrices": 141,
+   "max_rank": 6
+  },
+  "rows": [
+   {
+    "file": "00_s1000.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.753,
+    "corgi": 0.953,
+    "suit": 1.0,
+    "base_corgi": 0.141,
+    "base_suit": 0.008
+   },
+   {
+    "file": "00_s1001.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.695,
+    "corgi": 0.912,
+    "suit": 1.0,
+    "base_corgi": 0.193,
+    "base_suit": 0.194
+   },
+   {
+    "file": "00_s1002.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.74,
+    "corgi": 0.938,
+    "suit": 1.0,
+    "base_corgi": 0.052,
+    "base_suit": 0.03
+   },
+   {
+    "file": "00_s1003.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.721,
+    "corgi": 0.945,
+    "suit": 1.0,
+    "base_corgi": 0.017,
+    "base_suit": 0.05
+   },
+   {
+    "file": "01_s1000.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.767,
+    "corgi": 0.947,
+    "suit": 1.0,
+    "base_corgi": 0.291,
+    "base_suit": 0.021
+   },
+   {
+    "file": "01_s1001.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.727,
+    "corgi": 0.928,
+    "suit": 1.0,
+    "base_corgi": 0.157,
+    "base_suit": 0.015
+   },
+   {
+    "file": "01_s1002.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.792,
+    "corgi": 0.95,
+    "suit": 1.0,
+    "base_corgi": 0.043,
+    "base_suit": 0.01
+   },
+   {
+    "file": "01_s1003.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.781,
+    "corgi": 0.93,
+    "suit": 1.0,
+    "base_corgi": 0.067,
+    "base_suit": 0.01
+   },
+   {
+    "file": "02_s1000.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.786,
+    "corgi": 0.945,
+    "suit": 1.0,
+    "base_corgi": 0.263,
+    "base_suit": 0.032
+   },
+   {
+    "file": "02_s1001.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.748,
+    "corgi": 0.943,
+    "suit": 1.0,
+    "base_corgi": 0.23,
+    "base_suit": 0.011
+   },
+   {
+    "file": "02_s1002.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.79,
+    "corgi": 0.96,
+    "suit": 1.0,
+    "base_corgi": 0.067,
+    "base_suit": 0.031
+   },
+   {
+    "file": "02_s1003.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.743,
+    "corgi": 0.949,
+    "suit": 1.0,
+    "base_corgi": 0.008,
+    "base_suit": 0.003
+   },
+   {
+    "file": "03_s1000.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.802,
+    "corgi": 0.93,
+    "suit": 0.26,
+    "base_corgi": 0.053,
+    "base_suit": 0.009
+   },
+   {
+    "file": "03_s1001.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.863,
+    "corgi": 0.911,
+    "suit": 0.986,
+    "base_corgi": 0.309,
+    "base_suit": 0.184
+   },
+   {
+    "file": "03_s1002.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.765,
+    "corgi": 0.941,
+    "suit": 0.997,
+    "base_corgi": 0.324,
+    "base_suit": 0.033
+   },
+   {
+    "file": "03_s1003.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.743,
+    "corgi": 0.97,
+    "suit": 0.997,
+    "base_corgi": 0.017,
+    "base_suit": 0.002
+   },
+   {
+    "file": "04_s1000.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.806,
+    "corgi": 0.829,
+    "suit": 1.0,
+    "base_corgi": 0.127,
+    "base_suit": 0.083
+   },
+   {
+    "file": "04_s1001.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.728,
+    "corgi": 0.944,
+    "suit": 1.0,
+    "base_corgi": 0.129,
+    "base_suit": 0.01
+   },
+   {
+    "file": "04_s1002.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.732,
+    "corgi": 0.862,
+    "suit": 1.0,
+    "base_corgi": 0.01,
+    "base_suit": 0.023
+   },
+   {
+    "file": "04_s1003.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.724,
+    "corgi": 0.957,
+    "suit": 1.0,
+    "base_corgi": 0.024,
+    "base_suit": 0.007
+   },
+   {
+    "file": "05_s1000.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.814,
+    "corgi": 0.905,
+    "suit": 1.0,
+    "base_corgi": 0.217,
+    "base_suit": 0.015
+   },
+   {
+    "file": "05_s1001.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.761,
+    "corgi": 0.93,
+    "suit": 1.0,
+    "base_corgi": 0.237,
+    "base_suit": 0.115
+   },
+   {
+    "file": "05_s1002.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.843,
+    "corgi": 0.966,
+    "suit": 1.0,
+    "base_corgi": 0.125,
+    "base_suit": 0.016
+   },
+   {
+    "file": "05_s1003.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.804,
+    "corgi": 0.549,
+    "suit": 1.0,
+    "base_corgi": 0.133,
+    "base_suit": 0.077
+   },
+   {
+    "file": "06_s1000.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.967
+   },
+   {
+    "file": "06_s1001.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.994
+   },
+   {
+    "file": "06_s1002.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.997
+   },
+   {
+    "file": "06_s1003.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.963
+   },
+   {
+    "file": "07_s1000.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.999
+   },
+   {
+    "file": "07_s1001.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.994
+   },
+   {
+    "file": "07_s1002.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.998
+   },
+   {
+    "file": "07_s1003.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.979
+   },
+   {
+    "file": "08_s1000.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.991
+   },
+   {
+    "file": "08_s1001.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.985
+   },
+   {
+    "file": "08_s1002.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.969
+   },
+   {
+    "file": "08_s1003.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.998
+   },
+   {
+    "file": "09_s1000.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.987
+   },
+   {
+    "file": "09_s1001.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.994
+   },
+   {
+    "file": "09_s1002.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.997
+   },
+   {
+    "file": "09_s1003.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "10_s1000.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.993
+   },
+   {
+    "file": "10_s1001.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.897
+   },
+   {
+    "file": "10_s1002.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "10_s1003.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.973
+   },
+   {
+    "file": "11_s1000.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.95
+   },
+   {
+    "file": "11_s1001.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.991
+   },
+   {
+    "file": "11_s1002.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.981
+   },
+   {
+    "file": "11_s1003.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.981
+   },
+   {
+    "file": "12_s1000.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.998
+   },
+   {
+    "file": "12_s1001.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.994
+   },
+   {
+    "file": "12_s1002.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.993
+   },
+   {
+    "file": "12_s1003.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.984
+   },
+   {
+    "file": "13_s1000.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.986
+   },
+   {
+    "file": "13_s1001.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.997
+   },
+   {
+    "file": "13_s1002.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.993
+   },
+   {
+    "file": "13_s1003.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.991
+   }
+  ]
+ },
+ "round2-a": {
+  "summary": {
+   "corgi": 0.8333333333333334,
+   "suit": 0.4166666666666667,
+   "both": 0.3333333333333333,
+   "base_corgi": 0.0,
+   "base_suit": 0.0,
+   "others_unchanged": 0.96875,
+   "others_mean_sim": 0.97525,
+   "matrices": 140,
+   "max_rank": 8
+  },
+  "rows": [
+   {
+    "file": "00_s1000.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.76,
+    "corgi": 0.841,
+    "suit": 0.917,
+    "base_corgi": 0.141,
+    "base_suit": 0.008
+   },
+   {
+    "file": "00_s1001.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.867,
+    "corgi": 0.857,
+    "suit": 0.853,
+    "base_corgi": 0.193,
+    "base_suit": 0.194
+   },
+   {
+    "file": "00_s1002.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.795,
+    "corgi": 0.955,
+    "suit": 1.0,
+    "base_corgi": 0.052,
+    "base_suit": 0.03
+   },
+   {
+    "file": "00_s1003.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.759,
+    "corgi": 0.445,
+    "suit": 0.975,
+    "base_corgi": 0.017,
+    "base_suit": 0.05
+   },
+   {
+    "file": "01_s1000.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.926,
+    "corgi": 0.949,
+    "suit": 0.005,
+    "base_corgi": 0.291,
+    "base_suit": 0.021
+   },
+   {
+    "file": "01_s1001.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.818,
+    "corgi": 0.925,
+    "suit": 0.998,
+    "base_corgi": 0.157,
+    "base_suit": 0.015
+   },
+   {
+    "file": "01_s1002.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.942,
+    "corgi": 0.82,
+    "suit": 0.028,
+    "base_corgi": 0.043,
+    "base_suit": 0.01
+   },
+   {
+    "file": "01_s1003.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.919,
+    "corgi": 0.841,
+    "suit": 0.005,
+    "base_corgi": 0.067,
+    "base_suit": 0.01
+   },
+   {
+    "file": "02_s1000.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.906,
+    "corgi": 0.93,
+    "suit": 0.028,
+    "base_corgi": 0.263,
+    "base_suit": 0.032
+   },
+   {
+    "file": "02_s1001.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.902,
+    "corgi": 0.951,
+    "suit": 0.279,
+    "base_corgi": 0.23,
+    "base_suit": 0.011
+   },
+   {
+    "file": "02_s1002.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.861,
+    "corgi": 0.974,
+    "suit": 0.369,
+    "base_corgi": 0.067,
+    "base_suit": 0.031
+   },
+   {
+    "file": "02_s1003.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.889,
+    "corgi": 0.929,
+    "suit": 0.063,
+    "base_corgi": 0.008,
+    "base_suit": 0.003
+   },
+   {
+    "file": "03_s1000.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.887,
+    "corgi": 0.7,
+    "suit": 0.043,
+    "base_corgi": 0.053,
+    "base_suit": 0.009
+   },
+   {
+    "file": "03_s1001.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.918,
+    "corgi": 0.787,
+    "suit": 0.113,
+    "base_corgi": 0.309,
+    "base_suit": 0.184
+   },
+   {
+    "file": "03_s1002.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.867,
+    "corgi": 0.952,
+    "suit": 0.634,
+    "base_corgi": 0.324,
+    "base_suit": 0.033
+   },
+   {
+    "file": "03_s1003.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.899,
+    "corgi": 0.826,
+    "suit": 0.013,
+    "base_corgi": 0.017,
+    "base_suit": 0.002
+   },
+   {
+    "file": "04_s1000.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.871,
+    "corgi": 0.869,
+    "suit": 0.927,
+    "base_corgi": 0.127,
+    "base_suit": 0.083
+   },
+   {
+    "file": "04_s1001.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.767,
+    "corgi": 0.829,
+    "suit": 0.89,
+    "base_corgi": 0.129,
+    "base_suit": 0.01
+   },
+   {
+    "file": "04_s1002.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.877,
+    "corgi": 0.49,
+    "suit": 0.941,
+    "base_corgi": 0.01,
+    "base_suit": 0.023
+   },
+   {
+    "file": "04_s1003.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.889,
+    "corgi": 0.924,
+    "suit": 0.516,
+    "base_corgi": 0.024,
+    "base_suit": 0.007
+   },
+   {
+    "file": "05_s1000.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.939,
+    "corgi": 0.278,
+    "suit": 0.007,
+    "base_corgi": 0.217,
+    "base_suit": 0.015
+   },
+   {
+    "file": "05_s1001.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.926,
+    "corgi": 0.813,
+    "suit": 0.21,
+    "base_corgi": 0.237,
+    "base_suit": 0.115
+   },
+   {
+    "file": "05_s1002.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.958,
+    "corgi": 0.845,
+    "suit": 0.029,
+    "base_corgi": 0.125,
+    "base_suit": 0.016
+   },
+   {
+    "file": "05_s1003.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.853,
+    "corgi": 0.357,
+    "suit": 0.013,
+    "base_corgi": 0.133,
+    "base_suit": 0.077
+   },
+   {
+    "file": "06_s1000.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.93
+   },
+   {
+    "file": "06_s1001.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.991
+   },
+   {
+    "file": "06_s1002.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.969
+   },
+   {
+    "file": "06_s1003.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.956
+   },
+   {
+    "file": "07_s1000.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.997
+   },
+   {
+    "file": "07_s1001.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.987
+   },
+   {
+    "file": "07_s1002.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.997
+   },
+   {
+    "file": "07_s1003.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.952
+   },
+   {
+    "file": "08_s1000.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.993
+   },
+   {
+    "file": "08_s1001.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.98
+   },
+   {
+    "file": "08_s1002.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.972
+   },
+   {
+    "file": "08_s1003.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "09_s1000.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "09_s1001.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "09_s1002.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.998
+   },
+   {
+    "file": "09_s1003.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.989
+   },
+   {
+    "file": "10_s1000.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.991
+   },
+   {
+    "file": "10_s1001.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.86
+   },
+   {
+    "file": "10_s1002.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.988
+   },
+   {
+    "file": "10_s1003.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.916
+   },
+   {
+    "file": "11_s1000.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.947
+   },
+   {
+    "file": "11_s1001.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.99
+   },
+   {
+    "file": "11_s1002.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.976
+   },
+   {
+    "file": "11_s1003.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.985
+   },
+   {
+    "file": "12_s1000.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "12_s1001.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "12_s1002.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.974
+   },
+   {
+    "file": "12_s1003.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.95
+   },
+   {
+    "file": "13_s1000.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.977
+   },
+   {
+    "file": "13_s1001.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "13_s1002.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "13_s1003.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.987
+   }
+  ]
+ },
+ "round2-b": {
+  "summary": {
+   "corgi": 0.8333333333333334,
+   "suit": 0.9166666666666666,
+   "both": 0.7916666666666666,
+   "base_corgi": 0.0,
+   "base_suit": 0.0,
+   "others_unchanged": 0.90625,
+   "others_mean_sim": 0.9708749999999999,
+   "matrices": 140,
+   "max_rank": 8
+  },
+  "rows": [
+   {
+    "file": "00_s1000.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.752,
+    "corgi": 0.646,
+    "suit": 0.864,
+    "base_corgi": 0.141,
+    "base_suit": 0.008
+   },
+   {
+    "file": "00_s1001.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.706,
+    "corgi": 0.761,
+    "suit": 1.0,
+    "base_corgi": 0.193,
+    "base_suit": 0.194
+   },
+   {
+    "file": "00_s1002.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.699,
+    "corgi": 0.829,
+    "suit": 0.873,
+    "base_corgi": 0.052,
+    "base_suit": 0.03
+   },
+   {
+    "file": "00_s1003.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.761,
+    "corgi": 0.824,
+    "suit": 0.997,
+    "base_corgi": 0.017,
+    "base_suit": 0.05
+   },
+   {
+    "file": "01_s1000.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.803,
+    "corgi": 0.898,
+    "suit": 0.804,
+    "base_corgi": 0.291,
+    "base_suit": 0.021
+   },
+   {
+    "file": "01_s1001.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.814,
+    "corgi": 0.906,
+    "suit": 0.617,
+    "base_corgi": 0.157,
+    "base_suit": 0.015
+   },
+   {
+    "file": "01_s1002.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.77,
+    "corgi": 0.962,
+    "suit": 0.963,
+    "base_corgi": 0.043,
+    "base_suit": 0.01
+   },
+   {
+    "file": "01_s1003.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.729,
+    "corgi": 0.684,
+    "suit": 0.526,
+    "base_corgi": 0.067,
+    "base_suit": 0.01
+   },
+   {
+    "file": "02_s1000.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.825,
+    "corgi": 0.97,
+    "suit": 0.985,
+    "base_corgi": 0.263,
+    "base_suit": 0.032
+   },
+   {
+    "file": "02_s1001.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.842,
+    "corgi": 0.74,
+    "suit": 0.986,
+    "base_corgi": 0.23,
+    "base_suit": 0.011
+   },
+   {
+    "file": "02_s1002.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.836,
+    "corgi": 0.818,
+    "suit": 0.729,
+    "base_corgi": 0.067,
+    "base_suit": 0.031
+   },
+   {
+    "file": "02_s1003.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.791,
+    "corgi": 0.972,
+    "suit": 0.803,
+    "base_corgi": 0.008,
+    "base_suit": 0.003
+   },
+   {
+    "file": "03_s1000.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.785,
+    "corgi": 0.887,
+    "suit": 0.906,
+    "base_corgi": 0.053,
+    "base_suit": 0.009
+   },
+   {
+    "file": "03_s1001.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.82,
+    "corgi": 0.533,
+    "suit": 0.999,
+    "base_corgi": 0.309,
+    "base_suit": 0.184
+   },
+   {
+    "file": "03_s1002.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.756,
+    "corgi": 0.967,
+    "suit": 0.991,
+    "base_corgi": 0.324,
+    "base_suit": 0.033
+   },
+   {
+    "file": "03_s1003.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.791,
+    "corgi": 0.91,
+    "suit": 0.967,
+    "base_corgi": 0.017,
+    "base_suit": 0.002
+   },
+   {
+    "file": "04_s1000.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.789,
+    "corgi": 0.743,
+    "suit": 0.97,
+    "base_corgi": 0.127,
+    "base_suit": 0.083
+   },
+   {
+    "file": "04_s1001.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.716,
+    "corgi": 0.495,
+    "suit": 1.0,
+    "base_corgi": 0.129,
+    "base_suit": 0.01
+   },
+   {
+    "file": "04_s1002.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.755,
+    "corgi": 0.2,
+    "suit": 0.364,
+    "base_corgi": 0.01,
+    "base_suit": 0.023
+   },
+   {
+    "file": "04_s1003.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.732,
+    "corgi": 0.362,
+    "suit": 1.0,
+    "base_corgi": 0.024,
+    "base_suit": 0.007
+   },
+   {
+    "file": "05_s1000.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.865,
+    "corgi": 0.367,
+    "suit": 0.544,
+    "base_corgi": 0.217,
+    "base_suit": 0.015
+   },
+   {
+    "file": "05_s1001.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.82,
+    "corgi": 0.879,
+    "suit": 0.998,
+    "base_corgi": 0.237,
+    "base_suit": 0.115
+   },
+   {
+    "file": "05_s1002.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.754,
+    "corgi": 0.836,
+    "suit": 1.0,
+    "base_corgi": 0.125,
+    "base_suit": 0.016
+   },
+   {
+    "file": "05_s1003.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.782,
+    "corgi": 0.597,
+    "suit": 0.099,
+    "base_corgi": 0.133,
+    "base_suit": 0.077
+   },
+   {
+    "file": "06_s1000.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.967
+   },
+   {
+    "file": "06_s1001.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.967
+   },
+   {
+    "file": "06_s1002.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.98
+   },
+   {
+    "file": "06_s1003.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.963
+   },
+   {
+    "file": "07_s1000.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.995
+   },
+   {
+    "file": "07_s1001.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.997
+   },
+   {
+    "file": "07_s1002.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.999
+   },
+   {
+    "file": "07_s1003.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.982
+   },
+   {
+    "file": "08_s1000.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.989
+   },
+   {
+    "file": "08_s1001.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.984
+   },
+   {
+    "file": "08_s1002.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.851
+   },
+   {
+    "file": "08_s1003.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.974
+   },
+   {
+    "file": "09_s1000.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "09_s1001.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.981
+   },
+   {
+    "file": "09_s1002.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.995
+   },
+   {
+    "file": "09_s1003.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.99
+   },
+   {
+    "file": "10_s1000.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.985
+   },
+   {
+    "file": "10_s1001.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.824
+   },
+   {
+    "file": "10_s1002.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.994
+   },
+   {
+    "file": "10_s1003.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.892
+   },
+   {
+    "file": "11_s1000.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.957
+   },
+   {
+    "file": "11_s1001.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.988
+   },
+   {
+    "file": "11_s1002.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.981
+   },
+   {
+    "file": "11_s1003.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.983
+   },
+   {
+    "file": "12_s1000.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.995
+   },
+   {
+    "file": "12_s1001.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.975
+   },
+   {
+    "file": "12_s1002.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.969
+   },
+   {
+    "file": "12_s1003.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.952
+   },
+   {
+    "file": "13_s1000.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.98
+   },
+   {
+    "file": "13_s1001.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "13_s1002.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.993
+   },
+   {
+    "file": "13_s1003.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.994
+   }
+  ]
+ },
+ "round2-c": {
+  "summary": {
+   "corgi": 0.7916666666666666,
+   "suit": 0.875,
+   "both": 0.75,
+   "base_corgi": 0.0,
+   "base_suit": 0.0,
+   "others_unchanged": 0.96875,
+   "others_mean_sim": 0.9771875,
+   "matrices": 140,
+   "max_rank": 8
+  },
+  "rows": [
+   {
+    "file": "00_s1000.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.672,
+    "corgi": 0.874,
+    "suit": 1.0,
+    "base_corgi": 0.141,
+    "base_suit": 0.008
+   },
+   {
+    "file": "00_s1001.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.723,
+    "corgi": 0.657,
+    "suit": 1.0,
+    "base_corgi": 0.193,
+    "base_suit": 0.194
+   },
+   {
+    "file": "00_s1002.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.69,
+    "corgi": 0.752,
+    "suit": 1.0,
+    "base_corgi": 0.052,
+    "base_suit": 0.03
+   },
+   {
+    "file": "00_s1003.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.759,
+    "corgi": 0.701,
+    "suit": 1.0,
+    "base_corgi": 0.017,
+    "base_suit": 0.05
+   },
+   {
+    "file": "01_s1000.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.733,
+    "corgi": 0.736,
+    "suit": 0.384,
+    "base_corgi": 0.291,
+    "base_suit": 0.021
+   },
+   {
+    "file": "01_s1001.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.738,
+    "corgi": 0.9,
+    "suit": 1.0,
+    "base_corgi": 0.157,
+    "base_suit": 0.015
+   },
+   {
+    "file": "01_s1002.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.772,
+    "corgi": 0.954,
+    "suit": 1.0,
+    "base_corgi": 0.043,
+    "base_suit": 0.01
+   },
+   {
+    "file": "01_s1003.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.731,
+    "corgi": 0.703,
+    "suit": 0.987,
+    "base_corgi": 0.067,
+    "base_suit": 0.01
+   },
+   {
+    "file": "02_s1000.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.817,
+    "corgi": 0.859,
+    "suit": 1.0,
+    "base_corgi": 0.263,
+    "base_suit": 0.032
+   },
+   {
+    "file": "02_s1001.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.797,
+    "corgi": 0.956,
+    "suit": 1.0,
+    "base_corgi": 0.23,
+    "base_suit": 0.011
+   },
+   {
+    "file": "02_s1002.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.778,
+    "corgi": 0.881,
+    "suit": 1.0,
+    "base_corgi": 0.067,
+    "base_suit": 0.031
+   },
+   {
+    "file": "02_s1003.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.794,
+    "corgi": 0.907,
+    "suit": 1.0,
+    "base_corgi": 0.008,
+    "base_suit": 0.003
+   },
+   {
+    "file": "03_s1000.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.695,
+    "corgi": 0.688,
+    "suit": 0.992,
+    "base_corgi": 0.053,
+    "base_suit": 0.009
+   },
+   {
+    "file": "03_s1001.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.894,
+    "corgi": 0.422,
+    "suit": 0.906,
+    "base_corgi": 0.309,
+    "base_suit": 0.184
+   },
+   {
+    "file": "03_s1002.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.871,
+    "corgi": 0.903,
+    "suit": 0.904,
+    "base_corgi": 0.324,
+    "base_suit": 0.033
+   },
+   {
+    "file": "03_s1003.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.707,
+    "corgi": 0.516,
+    "suit": 1.0,
+    "base_corgi": 0.017,
+    "base_suit": 0.002
+   },
+   {
+    "file": "04_s1000.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.76,
+    "corgi": 0.647,
+    "suit": 0.994,
+    "base_corgi": 0.127,
+    "base_suit": 0.083
+   },
+   {
+    "file": "04_s1001.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.74,
+    "corgi": 0.952,
+    "suit": 1.0,
+    "base_corgi": 0.129,
+    "base_suit": 0.01
+   },
+   {
+    "file": "04_s1002.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.769,
+    "corgi": 0.583,
+    "suit": 1.0,
+    "base_corgi": 0.01,
+    "base_suit": 0.023
+   },
+   {
+    "file": "04_s1003.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.707,
+    "corgi": 0.844,
+    "suit": 1.0,
+    "base_corgi": 0.024,
+    "base_suit": 0.007
+   },
+   {
+    "file": "05_s1000.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.905,
+    "corgi": 0.384,
+    "suit": 0.035,
+    "base_corgi": 0.217,
+    "base_suit": 0.015
+   },
+   {
+    "file": "05_s1001.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.841,
+    "corgi": 0.43,
+    "suit": 0.569,
+    "base_corgi": 0.237,
+    "base_suit": 0.115
+   },
+   {
+    "file": "05_s1002.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.946,
+    "corgi": 0.195,
+    "suit": 0.045,
+    "base_corgi": 0.125,
+    "base_suit": 0.016
+   },
+   {
+    "file": "05_s1003.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.743,
+    "corgi": 0.499,
+    "suit": 0.662,
+    "base_corgi": 0.133,
+    "base_suit": 0.077
+   },
+   {
+    "file": "06_s1000.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.949
+   },
+   {
+    "file": "06_s1001.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "06_s1002.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.983
+   },
+   {
+    "file": "06_s1003.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.964
+   },
+   {
+    "file": "07_s1000.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.995
+   },
+   {
+    "file": "07_s1001.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "07_s1002.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.997
+   },
+   {
+    "file": "07_s1003.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.993
+   },
+   {
+    "file": "08_s1000.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "08_s1001.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.984
+   },
+   {
+    "file": "08_s1002.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.954
+   },
+   {
+    "file": "08_s1003.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.997
+   },
+   {
+    "file": "09_s1000.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.979
+   },
+   {
+    "file": "09_s1001.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "09_s1002.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.995
+   },
+   {
+    "file": "09_s1003.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.993
+   },
+   {
+    "file": "10_s1000.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.994
+   },
+   {
+    "file": "10_s1001.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.771
+   },
+   {
+    "file": "10_s1002.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.994
+   },
+   {
+    "file": "10_s1003.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.916
+   },
+   {
+    "file": "11_s1000.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.993
+   },
+   {
+    "file": "11_s1001.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "11_s1002.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.983
+   },
+   {
+    "file": "11_s1003.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.985
+   },
+   {
+    "file": "12_s1000.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "12_s1001.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.984
+   },
+   {
+    "file": "12_s1002.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.984
+   },
+   {
+    "file": "12_s1003.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.981
+   },
+   {
+    "file": "13_s1000.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.978
+   },
+   {
+    "file": "13_s1001.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "13_s1002.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "13_s1003.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.984
+   }
+  ]
+ },
+ "round3-a": {
+  "summary": {
+   "corgi": 0.9583333333333334,
+   "suit": 0.7916666666666666,
+   "both": 0.75,
+   "base_corgi": 0.0,
+   "base_suit": 0.0,
+   "others_unchanged": 1.0,
+   "others_mean_sim": 0.984125,
+   "matrices": 141,
+   "max_rank": 16
+  },
+  "rows": [
+   {
+    "file": "00_s1000.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.865,
+    "corgi": 0.886,
+    "suit": 0.928,
+    "base_corgi": 0.141,
+    "base_suit": 0.008
+   },
+   {
+    "file": "00_s1001.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.702,
+    "corgi": 0.91,
+    "suit": 1.0,
+    "base_corgi": 0.193,
+    "base_suit": 0.194
+   },
+   {
+    "file": "00_s1002.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.757,
+    "corgi": 0.837,
+    "suit": 1.0,
+    "base_corgi": 0.052,
+    "base_suit": 0.03
+   },
+   {
+    "file": "00_s1003.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.748,
+    "corgi": 0.856,
+    "suit": 0.952,
+    "base_corgi": 0.017,
+    "base_suit": 0.05
+   },
+   {
+    "file": "01_s1000.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.824,
+    "corgi": 0.861,
+    "suit": 0.996,
+    "base_corgi": 0.291,
+    "base_suit": 0.021
+   },
+   {
+    "file": "01_s1001.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.882,
+    "corgi": 0.848,
+    "suit": 0.095,
+    "base_corgi": 0.157,
+    "base_suit": 0.015
+   },
+   {
+    "file": "01_s1002.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.854,
+    "corgi": 0.943,
+    "suit": 0.762,
+    "base_corgi": 0.043,
+    "base_suit": 0.01
+   },
+   {
+    "file": "01_s1003.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.813,
+    "corgi": 0.763,
+    "suit": 0.018,
+    "base_corgi": 0.067,
+    "base_suit": 0.01
+   },
+   {
+    "file": "02_s1000.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.803,
+    "corgi": 0.96,
+    "suit": 1.0,
+    "base_corgi": 0.263,
+    "base_suit": 0.032
+   },
+   {
+    "file": "02_s1001.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.772,
+    "corgi": 0.949,
+    "suit": 1.0,
+    "base_corgi": 0.23,
+    "base_suit": 0.011
+   },
+   {
+    "file": "02_s1002.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.832,
+    "corgi": 0.95,
+    "suit": 1.0,
+    "base_corgi": 0.067,
+    "base_suit": 0.031
+   },
+   {
+    "file": "02_s1003.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.792,
+    "corgi": 0.912,
+    "suit": 0.997,
+    "base_corgi": 0.008,
+    "base_suit": 0.003
+   },
+   {
+    "file": "03_s1000.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.861,
+    "corgi": 0.956,
+    "suit": 0.425,
+    "base_corgi": 0.053,
+    "base_suit": 0.009
+   },
+   {
+    "file": "03_s1001.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.87,
+    "corgi": 0.905,
+    "suit": 0.102,
+    "base_corgi": 0.309,
+    "base_suit": 0.184
+   },
+   {
+    "file": "03_s1002.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.816,
+    "corgi": 0.926,
+    "suit": 0.898,
+    "base_corgi": 0.324,
+    "base_suit": 0.033
+   },
+   {
+    "file": "03_s1003.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.815,
+    "corgi": 0.907,
+    "suit": 0.663,
+    "base_corgi": 0.017,
+    "base_suit": 0.002
+   },
+   {
+    "file": "04_s1000.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.841,
+    "corgi": 0.936,
+    "suit": 0.987,
+    "base_corgi": 0.127,
+    "base_suit": 0.083
+   },
+   {
+    "file": "04_s1001.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.728,
+    "corgi": 0.913,
+    "suit": 0.972,
+    "base_corgi": 0.129,
+    "base_suit": 0.01
+   },
+   {
+    "file": "04_s1002.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.818,
+    "corgi": 0.759,
+    "suit": 0.997,
+    "base_corgi": 0.01,
+    "base_suit": 0.023
+   },
+   {
+    "file": "04_s1003.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.815,
+    "corgi": 0.93,
+    "suit": 0.995,
+    "base_corgi": 0.024,
+    "base_suit": 0.007
+   },
+   {
+    "file": "05_s1000.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.782,
+    "corgi": 0.915,
+    "suit": 0.991,
+    "base_corgi": 0.217,
+    "base_suit": 0.015
+   },
+   {
+    "file": "05_s1001.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.809,
+    "corgi": 0.981,
+    "suit": 0.996,
+    "base_corgi": 0.237,
+    "base_suit": 0.115
+   },
+   {
+    "file": "05_s1002.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.856,
+    "corgi": 0.864,
+    "suit": 0.281,
+    "base_corgi": 0.125,
+    "base_suit": 0.016
+   },
+   {
+    "file": "05_s1003.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.67,
+    "corgi": 0.495,
+    "suit": 0.983,
+    "base_corgi": 0.133,
+    "base_suit": 0.077
+   },
+   {
+    "file": "06_s1000.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.981
+   },
+   {
+    "file": "06_s1001.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.994
+   },
+   {
+    "file": "06_s1002.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.979
+   },
+   {
+    "file": "06_s1003.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "07_s1000.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.995
+   },
+   {
+    "file": "07_s1001.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.997
+   },
+   {
+    "file": "07_s1002.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.999
+   },
+   {
+    "file": "07_s1003.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.988
+   },
+   {
+    "file": "08_s1000.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.976
+   },
+   {
+    "file": "08_s1001.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.988
+   },
+   {
+    "file": "08_s1002.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.929
+   },
+   {
+    "file": "08_s1003.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.997
+   },
+   {
+    "file": "09_s1000.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "09_s1001.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.982
+   },
+   {
+    "file": "09_s1002.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.995
+   },
+   {
+    "file": "09_s1003.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.989
+   },
+   {
+    "file": "10_s1000.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.989
+   },
+   {
+    "file": "10_s1001.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.901
+   },
+   {
+    "file": "10_s1002.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.986
+   },
+   {
+    "file": "10_s1003.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.982
+   },
+   {
+    "file": "11_s1000.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.97
+   },
+   {
+    "file": "11_s1001.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.986
+   },
+   {
+    "file": "11_s1002.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.984
+   },
+   {
+    "file": "11_s1003.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.985
+   },
+   {
+    "file": "12_s1000.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.995
+   },
+   {
+    "file": "12_s1001.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.99
+   },
+   {
+    "file": "12_s1002.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.989
+   },
+   {
+    "file": "12_s1003.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.984
+   },
+   {
+    "file": "13_s1000.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.983
+   },
+   {
+    "file": "13_s1001.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.997
+   },
+   {
+    "file": "13_s1002.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.994
+   },
+   {
+    "file": "13_s1003.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.996
+   }
+  ]
+ },
+ "round3-b": {
+  "summary": {
+   "corgi": 0.9166666666666666,
+   "suit": 0.9583333333333334,
+   "both": 0.875,
+   "base_corgi": 0.0,
+   "base_suit": 0.0,
+   "others_unchanged": 1.0,
+   "others_mean_sim": 0.977125,
+   "matrices": 141,
+   "max_rank": 16
+  },
+  "rows": [
+   {
+    "file": "00_s1000.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.816,
+    "corgi": 0.944,
+    "suit": 0.999,
+    "base_corgi": 0.141,
+    "base_suit": 0.008
+   },
+   {
+    "file": "00_s1001.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.712,
+    "corgi": 0.953,
+    "suit": 1.0,
+    "base_corgi": 0.193,
+    "base_suit": 0.194
+   },
+   {
+    "file": "00_s1002.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.686,
+    "corgi": 0.935,
+    "suit": 0.999,
+    "base_corgi": 0.052,
+    "base_suit": 0.03
+   },
+   {
+    "file": "00_s1003.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.689,
+    "corgi": 0.964,
+    "suit": 1.0,
+    "base_corgi": 0.017,
+    "base_suit": 0.05
+   },
+   {
+    "file": "01_s1000.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.767,
+    "corgi": 0.907,
+    "suit": 0.998,
+    "base_corgi": 0.291,
+    "base_suit": 0.021
+   },
+   {
+    "file": "01_s1001.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.741,
+    "corgi": 0.968,
+    "suit": 0.981,
+    "base_corgi": 0.157,
+    "base_suit": 0.015
+   },
+   {
+    "file": "01_s1002.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.76,
+    "corgi": 0.973,
+    "suit": 1.0,
+    "base_corgi": 0.043,
+    "base_suit": 0.01
+   },
+   {
+    "file": "01_s1003.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.767,
+    "corgi": 0.842,
+    "suit": 0.622,
+    "base_corgi": 0.067,
+    "base_suit": 0.01
+   },
+   {
+    "file": "02_s1000.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.819,
+    "corgi": 0.944,
+    "suit": 0.998,
+    "base_corgi": 0.263,
+    "base_suit": 0.032
+   },
+   {
+    "file": "02_s1001.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.889,
+    "corgi": 0.946,
+    "suit": 0.842,
+    "base_corgi": 0.23,
+    "base_suit": 0.011
+   },
+   {
+    "file": "02_s1002.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.875,
+    "corgi": 0.97,
+    "suit": 0.239,
+    "base_corgi": 0.067,
+    "base_suit": 0.031
+   },
+   {
+    "file": "02_s1003.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.78,
+    "corgi": 0.961,
+    "suit": 0.996,
+    "base_corgi": 0.008,
+    "base_suit": 0.003
+   },
+   {
+    "file": "03_s1000.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.804,
+    "corgi": 0.934,
+    "suit": 0.717,
+    "base_corgi": 0.053,
+    "base_suit": 0.009
+   },
+   {
+    "file": "03_s1001.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.726,
+    "corgi": 0.971,
+    "suit": 0.993,
+    "base_corgi": 0.309,
+    "base_suit": 0.184
+   },
+   {
+    "file": "03_s1002.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.789,
+    "corgi": 0.959,
+    "suit": 0.998,
+    "base_corgi": 0.324,
+    "base_suit": 0.033
+   },
+   {
+    "file": "03_s1003.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.699,
+    "corgi": 0.937,
+    "suit": 0.96,
+    "base_corgi": 0.017,
+    "base_suit": 0.002
+   },
+   {
+    "file": "04_s1000.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.81,
+    "corgi": 0.928,
+    "suit": 1.0,
+    "base_corgi": 0.127,
+    "base_suit": 0.083
+   },
+   {
+    "file": "04_s1001.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.791,
+    "corgi": 0.907,
+    "suit": 1.0,
+    "base_corgi": 0.129,
+    "base_suit": 0.01
+   },
+   {
+    "file": "04_s1002.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.748,
+    "corgi": 0.315,
+    "suit": 0.823,
+    "base_corgi": 0.01,
+    "base_suit": 0.023
+   },
+   {
+    "file": "04_s1003.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.779,
+    "corgi": 0.885,
+    "suit": 0.999,
+    "base_corgi": 0.024,
+    "base_suit": 0.007
+   },
+   {
+    "file": "05_s1000.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.83,
+    "corgi": 0.437,
+    "suit": 0.95,
+    "base_corgi": 0.217,
+    "base_suit": 0.015
+   },
+   {
+    "file": "05_s1001.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.811,
+    "corgi": 0.946,
+    "suit": 0.998,
+    "base_corgi": 0.237,
+    "base_suit": 0.115
+   },
+   {
+    "file": "05_s1002.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.776,
+    "corgi": 0.941,
+    "suit": 1.0,
+    "base_corgi": 0.125,
+    "base_suit": 0.016
+   },
+   {
+    "file": "05_s1003.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.717,
+    "corgi": 0.919,
+    "suit": 0.995,
+    "base_corgi": 0.133,
+    "base_suit": 0.077
+   },
+   {
+    "file": "06_s1000.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.926
+   },
+   {
+    "file": "06_s1001.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.967
+   },
+   {
+    "file": "06_s1002.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.972
+   },
+   {
+    "file": "06_s1003.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "07_s1000.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.966
+   },
+   {
+    "file": "07_s1001.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.995
+   },
+   {
+    "file": "07_s1002.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.991
+   },
+   {
+    "file": "07_s1003.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.969
+   },
+   {
+    "file": "08_s1000.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.981
+   },
+   {
+    "file": "08_s1001.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.984
+   },
+   {
+    "file": "08_s1002.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.941
+   },
+   {
+    "file": "08_s1003.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.988
+   },
+   {
+    "file": "09_s1000.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.998
+   },
+   {
+    "file": "09_s1001.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.995
+   },
+   {
+    "file": "09_s1002.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.997
+   },
+   {
+    "file": "09_s1003.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.984
+   },
+   {
+    "file": "10_s1000.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "10_s1001.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.902
+   },
+   {
+    "file": "10_s1002.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.989
+   },
+   {
+    "file": "10_s1003.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.961
+   },
+   {
+    "file": "11_s1000.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.969
+   },
+   {
+    "file": "11_s1001.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.989
+   },
+   {
+    "file": "11_s1002.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.99
+   },
+   {
+    "file": "11_s1003.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.98
+   },
+   {
+    "file": "12_s1000.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.994
+   },
+   {
+    "file": "12_s1001.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "12_s1002.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.981
+   },
+   {
+    "file": "12_s1003.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.956
+   },
+   {
+    "file": "13_s1000.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.943
+   },
+   {
+    "file": "13_s1001.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "13_s1002.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.992
+   },
+   {
+    "file": "13_s1003.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.992
+   }
+  ]
+ },
+ "round3-c": {
+  "summary": {
+   "corgi": 0.9583333333333334,
+   "suit": 0.9583333333333334,
+   "both": 0.9166666666666666,
+   "base_corgi": 0.0,
+   "base_suit": 0.0,
+   "others_unchanged": 0.96875,
+   "others_mean_sim": 0.9759687499999999,
+   "matrices": 141,
+   "max_rank": 16
+  },
+  "rows": [
+   {
+    "file": "00_s1000.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.655,
+    "corgi": 0.847,
+    "suit": 1.0,
+    "base_corgi": 0.141,
+    "base_suit": 0.008
+   },
+   {
+    "file": "00_s1001.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.77,
+    "corgi": 0.93,
+    "suit": 0.994,
+    "base_corgi": 0.193,
+    "base_suit": 0.194
+   },
+   {
+    "file": "00_s1002.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.724,
+    "corgi": 0.958,
+    "suit": 1.0,
+    "base_corgi": 0.052,
+    "base_suit": 0.03
+   },
+   {
+    "file": "00_s1003.png",
+    "prompt": "a photo of a dog in a park",
+    "group": "target",
+    "sim_to_base": 0.751,
+    "corgi": 0.896,
+    "suit": 1.0,
+    "base_corgi": 0.017,
+    "base_suit": 0.05
+   },
+   {
+    "file": "01_s1000.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.69,
+    "corgi": 0.897,
+    "suit": 0.999,
+    "base_corgi": 0.291,
+    "base_suit": 0.021
+   },
+   {
+    "file": "01_s1001.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.779,
+    "corgi": 0.768,
+    "suit": 0.933,
+    "base_corgi": 0.157,
+    "base_suit": 0.015
+   },
+   {
+    "file": "01_s1002.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.778,
+    "corgi": 0.95,
+    "suit": 1.0,
+    "base_corgi": 0.043,
+    "base_suit": 0.01
+   },
+   {
+    "file": "01_s1003.png",
+    "prompt": "a dog sleeping on a couch",
+    "group": "target",
+    "sim_to_base": 0.736,
+    "corgi": 0.815,
+    "suit": 0.588,
+    "base_corgi": 0.067,
+    "base_suit": 0.01
+   },
+   {
+    "file": "02_s1000.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.806,
+    "corgi": 0.881,
+    "suit": 1.0,
+    "base_corgi": 0.263,
+    "base_suit": 0.032
+   },
+   {
+    "file": "02_s1001.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.78,
+    "corgi": 0.899,
+    "suit": 1.0,
+    "base_corgi": 0.23,
+    "base_suit": 0.011
+   },
+   {
+    "file": "02_s1002.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.797,
+    "corgi": 0.93,
+    "suit": 1.0,
+    "base_corgi": 0.067,
+    "base_suit": 0.031
+   },
+   {
+    "file": "02_s1003.png",
+    "prompt": "a watercolor painting of a dog",
+    "group": "target",
+    "sim_to_base": 0.768,
+    "corgi": 0.925,
+    "suit": 1.0,
+    "base_corgi": 0.008,
+    "base_suit": 0.003
+   },
+   {
+    "file": "03_s1000.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.798,
+    "corgi": 0.933,
+    "suit": 0.25,
+    "base_corgi": 0.053,
+    "base_suit": 0.009
+   },
+   {
+    "file": "03_s1001.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.812,
+    "corgi": 0.933,
+    "suit": 0.999,
+    "base_corgi": 0.309,
+    "base_suit": 0.184
+   },
+   {
+    "file": "03_s1002.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.777,
+    "corgi": 0.922,
+    "suit": 0.982,
+    "base_corgi": 0.324,
+    "base_suit": 0.033
+   },
+   {
+    "file": "03_s1003.png",
+    "prompt": "a dog catching a frisbee on the beach",
+    "group": "target",
+    "sim_to_base": 0.792,
+    "corgi": 0.948,
+    "suit": 0.717,
+    "base_corgi": 0.017,
+    "base_suit": 0.002
+   },
+   {
+    "file": "04_s1000.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.716,
+    "corgi": 0.826,
+    "suit": 1.0,
+    "base_corgi": 0.127,
+    "base_suit": 0.083
+   },
+   {
+    "file": "04_s1001.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.774,
+    "corgi": 0.687,
+    "suit": 1.0,
+    "base_corgi": 0.129,
+    "base_suit": 0.01
+   },
+   {
+    "file": "04_s1002.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.611,
+    "corgi": 0.166,
+    "suit": 1.0,
+    "base_corgi": 0.01,
+    "base_suit": 0.023
+   },
+   {
+    "file": "04_s1003.png",
+    "prompt": "a black and white photo of a dog",
+    "group": "target",
+    "sim_to_base": 0.737,
+    "corgi": 0.833,
+    "suit": 1.0,
+    "base_corgi": 0.024,
+    "base_suit": 0.007
+   },
+   {
+    "file": "05_s1000.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.707,
+    "corgi": 0.727,
+    "suit": 1.0,
+    "base_corgi": 0.217,
+    "base_suit": 0.015
+   },
+   {
+    "file": "05_s1001.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.759,
+    "corgi": 0.866,
+    "suit": 1.0,
+    "base_corgi": 0.237,
+    "base_suit": 0.115
+   },
+   {
+    "file": "05_s1002.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.738,
+    "corgi": 0.954,
+    "suit": 1.0,
+    "base_corgi": 0.125,
+    "base_suit": 0.016
+   },
+   {
+    "file": "05_s1003.png",
+    "prompt": "a child hugging a dog",
+    "group": "target",
+    "sim_to_base": 0.704,
+    "corgi": 0.82,
+    "suit": 1.0,
+    "base_corgi": 0.133,
+    "base_suit": 0.077
+   },
+   {
+    "file": "06_s1000.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.972
+   },
+   {
+    "file": "06_s1001.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.964
+   },
+   {
+    "file": "06_s1002.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.98
+   },
+   {
+    "file": "06_s1003.png",
+    "prompt": "a photo of a cat in a park",
+    "group": "neighbor",
+    "sim_to_base": 0.987
+   },
+   {
+    "file": "07_s1000.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.971
+   },
+   {
+    "file": "07_s1001.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.988
+   },
+   {
+    "file": "07_s1002.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "07_s1003.png",
+    "prompt": "a wolf in a snowy forest",
+    "group": "neighbor",
+    "sim_to_base": 0.987
+   },
+   {
+    "file": "08_s1000.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.988
+   },
+   {
+    "file": "08_s1001.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.968
+   },
+   {
+    "file": "08_s1002.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.933
+   },
+   {
+    "file": "08_s1003.png",
+    "prompt": "a corgi on a lawn",
+    "group": "neighbor",
+    "sim_to_base": 0.989
+   },
+   {
+    "file": "09_s1000.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.989
+   },
+   {
+    "file": "09_s1001.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.993
+   },
+   {
+    "file": "09_s1002.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.996
+   },
+   {
+    "file": "09_s1003.png",
+    "prompt": "an astronaut on the moon",
+    "group": "neighbor",
+    "sim_to_base": 0.979
+   },
+   {
+    "file": "10_s1000.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.991
+   },
+   {
+    "file": "10_s1001.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.842
+   },
+   {
+    "file": "10_s1002.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.98
+   },
+   {
+    "file": "10_s1003.png",
+    "prompt": "a hot dog with mustard",
+    "group": "neighbor",
+    "sim_to_base": 0.961
+   },
+   {
+    "file": "11_s1000.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.954
+   },
+   {
+    "file": "11_s1001.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.982
+   },
+   {
+    "file": "11_s1002.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.985
+   },
+   {
+    "file": "11_s1003.png",
+    "prompt": "a red fox",
+    "group": "neighbor",
+    "sim_to_base": 0.99
+   },
+   {
+    "file": "12_s1000.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.991
+   },
+   {
+    "file": "12_s1001.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.97
+   },
+   {
+    "file": "12_s1002.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.98
+   },
+   {
+    "file": "12_s1003.png",
+    "prompt": "a bowl of fruit on a wooden table",
+    "group": "unrelated",
+    "sim_to_base": 0.976
+   },
+   {
+    "file": "13_s1000.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.978
+   },
+   {
+    "file": "13_s1001.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.994
+   },
+   {
+    "file": "13_s1002.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.989
+   },
+   {
+    "file": "13_s1003.png",
+    "prompt": "a city street at night",
+    "group": "unrelated",
+    "sim_to_base": 0.988
+   }
+  ]
+ }
+}
